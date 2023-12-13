@@ -20,6 +20,7 @@ const projectDetails = [
       <p>
         <p>login : yassin@test.com</p>
         <p>password : 123456</p>
+        <p></p>
         <p>1. Beautifull and responsive(BOOTSTRAP) user-interface and user-experience</p>
         <p>2. Added Authentication System  for secure logging </p>
         <p>3. Used usestate and Redux for handling change on content.</p>
@@ -38,7 +39,7 @@ const projectDetails = [
     image: keeper,
     tag: "FrontEnd, ReactJS,css,JavaScript",
     teamSize: "1",
-    linkStatus: "not hosted",
+    linkStatus: "Link",
     link: "https://peaceful-mandazi-eb6749.netlify.app/",
     description:
       "This is the project I have made during learning Web Development from Youtube. This is the website where you save your daily story and work list which can be save after web closed  if I connect to database.Your saved notes see here. I have created this with good Ui.This website is also user-friendly and handy to use. I have also used Material Ui in this project.",
@@ -65,6 +66,7 @@ const projectDetails = [
       <p>
         <p>login : yassin@test.com</p>
         <p>password : 123456</p>
+        <p></p>
         <p>1. Beautifull and responsive(BOOTSTRAP) user-interface and user-experience</p>
         <p>2. Added Authentication System  for secure logging </p>
         <p>3. Used usestate and Redux for handling change on content.</p>
@@ -83,7 +85,7 @@ const projectDetails = [
     image: authentication,
     tag: "ReactJS, MongoDb, Express.js, NodeJs, Authentication",
     teamSize: "1",
-    linkStatus: "not hosted",
+    linkStatus: "Link",
     link: "https://food-rcr3.onrender.com/",
     description:
     "I had made this project after learning full-stack web development from Youtube. This is my full-stack project.",
@@ -91,6 +93,7 @@ const projectDetails = [
       <p>
         <p>login : yassin1@test.com</p>
         <p>password : 123456</p>
+        <p></p>
         <p>1. Beautifull user-interface and user-experience</p>
         <p>2. Added Authentication System  for secure logging </p>
         <p>3. Used usestate and Redux for handling change on content.</p>
@@ -117,6 +120,7 @@ const projectDetails = [
       <p>
         <p>login : yassin@test.com</p>
         <p>password : 123456</p>
+        <p></p>
         <p>1. Beautifull user-interface and user-experience</p>
         <p>2. Added Authentication System  for secure logging </p>
         <p>3. Used usestate and Redux for handling change on content.</p>
