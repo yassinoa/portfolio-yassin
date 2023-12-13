@@ -20,7 +20,7 @@ const projectDetails = [
       <p>
         <p>login : yassin@test.com</p>
         <p>password : 123456</p>
-        <p></p>
+        <br/>
         <p>1. Beautifull and responsive(BOOTSTRAP) user-interface and user-experience</p>
         <p>2. Added Authentication System  for secure logging </p>
         <p>3. Used usestate and Redux for handling change on content.</p>
@@ -66,7 +66,7 @@ const projectDetails = [
       <p>
         <p>login : yassin@test.com</p>
         <p>password : 123456</p>
-        <p></p>
+        <br/>
         <p>1. Beautifull and responsive(BOOTSTRAP) user-interface and user-experience</p>
         <p>2. Added Authentication System  for secure logging </p>
         <p>3. Used usestate and Redux for handling change on content.</p>
@@ -93,7 +93,7 @@ const projectDetails = [
       <p>
         <p>login : yassin1@test.com</p>
         <p>password : 123456</p>
-        <p></p>
+        <br/>
         <p>1. Beautifull user-interface and user-experience</p>
         <p>2. Added Authentication System  for secure logging </p>
         <p>3. Used usestate and Redux for handling change on content.</p>
@@ -120,7 +120,7 @@ const projectDetails = [
       <p>
         <p>login : yassin@test.com</p>
         <p>password : 123456</p>
-        <p></p>
+        <br/>
         <p>1. Beautifull user-interface and user-experience</p>
         <p>2. Added Authentication System  for secure logging </p>
         <p>3. Used usestate and Redux for handling change on content.</p>
