@@ -2,6 +2,7 @@
   "name": "portfolio-atul",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://yassin-portfolio.onrender.com/",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
