@@ -15,7 +15,7 @@ function App() {
     <div className="bg-light dark:bg-dark bg-cover  ">
       <div className="mx-auto  max-w-7xl pt-12 xl:pt-20 pb-10">
         <BrowserRouter>
-          <Routes basename={process.env.PUBLIC_URL}>
+          <Routes basename='https://yassin-portfolio.onrender.com'>
             <Route
               path="/"
               exact
