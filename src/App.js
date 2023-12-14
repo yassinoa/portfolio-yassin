@@ -15,7 +15,7 @@ function App() {
     <div className="bg-light dark:bg-dark bg-cover  ">
       <div className="mx-auto  max-w-7xl pt-12 xl:pt-20 pb-10">
         <BrowserRouter>
-          <Routes>
+          <Routes basename={process.env.PUBLIC_URL}>
             <Route
               path="/"
               exact
